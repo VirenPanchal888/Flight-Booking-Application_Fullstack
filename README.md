@@ -18,7 +18,7 @@ Even without traditional full-stack development knowledge, this platform was **b
 
 ## **🔹 Features & Functionalities**
 ### **🛩️ Flight Search & Booking**
-✅ **Real-Time Flight Search** – Users can search for flights by selecting departure & arrival locations.  
+✅ **Real-Time Flight Search** – Users can search for flights by selecting departure & arrival locations.(Within India)  
 ✅ **AI-Powered Search Suggestions** – The system **tracks user preferences and search history** for personalized suggestions.  
 ✅ **Multi-City & Round-Trip Bookings** – Supports **one-way, round-trip, and multi-city** travel planning.  
 ✅ **Class Selection & Passenger Count** – Users can customize bookings by **choosing Economy, Business, or First Class**.
@@ -83,5 +83,16 @@ The **backend is AI-enhanced**, using **real-time flight data, NLP-based search 
 🔹 **Real-Time & Scalable Architecture** – Integrated **real-time API calls, AI-driven recommendations, and cloud scalability**.  
 🔹 **Future Enhancements** – Plans to **integrate voice-based travel search, chatbot assistants, and VR-powered virtual flight previews**.  
 
-📌 **AI has no limits – and neither do I! 🚀**  
-Would you like me to generate a **custom AI-powered chatbot for travel assistance next?** 🤖✨
+📌 **AI has no limits – and neither do I ! 🚀**  
+
+**NOTE**
+We can further fetch the source code and introduce advancements and modifications to enhance the application's functionality, intelligence, and user experience. By leveraging AI-driven automation, additional logic implementation, and API integrations, we can refine existing features, optimize performance, and introduce new capabilities.
+
+Some key enhancements could include:
+✅ Voice-Based Flight Search – Allowing users to search for flights via voice commands using AI-powered speech recognition.
+✅ Chatbot Assistance – Integrating an AI travel assistant for real-time booking help, itinerary planning, and travel tips.
+✅ Dynamic Price Prediction – Enhancing AI models to predict flight price trends, offering real-time insights on cost-saving opportunities.
+✅ Blockchain-Powered Ticketing System – Ensuring secure transactions, fraud prevention, and transparent ticket booking.
+✅ Augmented Reality (AR) Virtual Previews – Allowing users to virtually explore destinations before booking a flight.
+
+By applying custom logic, optimizing algorithms, and expanding AI-driven functionalities, we can continuously evolve the application into a smarter, more scalable travel companion.
