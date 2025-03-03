@@ -1,4 +1,4 @@
-# **Aerodynamic Travel Symphony ✈️**
+# **Aerodynamic** - *Flight Booking Model* ✈️**
 ### **AI-Powered Flight Booking Platform | Built with Advanced AI & No Full Stack Knowledge Required 🚀**
 
 ## **📌 Overview**
